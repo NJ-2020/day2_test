@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # day2 test
 
 > this the final test project using linters for day 2
